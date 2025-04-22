@@ -1,4 +1,4 @@
-## **License Plate Detection and OCR using OpenCV and Tesseract**
+## **License Plate Detection using OpenCV and Tesseract OCR**
 
 This notebook explores how to detect license plates in vehicle images and extract their alphanumeric text using **image processing** and **Optical Character Recognition (OCR) techniques**.
 
